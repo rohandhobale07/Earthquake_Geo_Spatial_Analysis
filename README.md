@@ -1,7 +1,7 @@
                                🌍📊 Earthquake & Geo-Spatial Data Analysis 🌍📊
 
-An interactive Tableau dashboard analyzing major earthquakes (Magnitude 6+) from 1900 to 2013 using geo-spatial visualization techniques.
-This project focuses on earthquake hotspots, magnitude analysis, depth correlation, and continent-wise seismic activity insights.
+This project analyzes major earthquakes (Magnitude 6+) from 1900 to 2013 using geo-spatial visualization techniques.
+The analysis focuses on identifying earthquake hotspots, studying the relationship between earthquake depth and magnitude, and creating interactive dashboards for better visualization and storytelling.
 
 🔧 Tools Used:
 - Tableau Public
@@ -16,8 +16,8 @@ This project focuses on earthquake hotspots, magnitude analysis, depth correlati
 - Scatter Plots and Dashboards
 - Storyline Presentation in Tableau
   
-📈 Insights:
-- Identify earthquake hotspot regions
-- Analyze correlation between depth and magnitude
-- Compare earthquake occurrences across continents
-- Visualize historical seismic activity trends
+📈 Key Insights:
+- Regions around the Pacific Ring of Fire showed the highest earthquake activity.
+- Strong earthquakes (Magnitude 7+) were concentrated in specific seismic zones.
+- Some continents experienced significantly higher earthquake occurrences than others.
+- Depth and magnitude showed varying relationships depending on earthquake regions.
